@@ -1,0 +1,5 @@
+{
+  "LFP cells instead of NMC": {"component": "Li-ion cells (NMC811)", "emission_factor": 60},
+  "Cells from renewable-powered factory": {"component": "Li-ion cells (NMC811)", "emission_factor": 52},
+  "Recycled aluminium housing": {"component": "Housing (primary aluminium)", "emission_factor": 3}
+}

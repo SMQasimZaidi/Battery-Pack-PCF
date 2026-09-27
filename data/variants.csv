@@ -1,0 +1,4 @@
+variant,capacity_kwh,annual_volume,assembly_minutes
+S,0.5,20000,12
+M,1.0,15000,18
+L,2.0,8000,30

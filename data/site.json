@@ -1,0 +1,9 @@
+{
+  "_note": "Illustrative site data for a fictional pack assembly plant. Replace with metered data.",
+  "company": "Example Battery Assembly GmbH (fictional)",
+  "reporting_period": "2025",
+  "site_electricity_kwh": 180000,
+  "site_natural_gas_kwh": 40000,
+  "grid_factor_kgco2e_per_kwh": 0.38,
+  "gas_factor_kgco2e_per_kwh": 0.20
+}

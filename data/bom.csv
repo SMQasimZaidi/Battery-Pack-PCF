@@ -1,0 +1,10 @@
+component,category,unit,emission_factor,factor_source,data_type,ghg_scope,S,M,L
+Li-ion cells (NMC811),Battery cells,kWh,75,Illustrative literature value; replace with supplier or Ecoinvent data,Secondary,Scope 3 Cat 1,0.5,1.0,2.0
+Battery management system (populated PCB),Electronics,kg,100,Illustrative Ecoinvent-type value for populated PCB,Secondary,Scope 3 Cat 1,0.08,0.10,0.12
+Busbars and nickel strips,Metals,kg,6,Illustrative copper/nickel mix,Secondary,Scope 3 Cat 1,0.15,0.25,0.45
+Housing (primary aluminium),Housing,kg,12,Illustrative primary aluminium,Secondary,Scope 3 Cat 1,0.8,1.2,2.0
+Cell holders and insulation (PC/ABS),Plastics,kg,3.5,Illustrative engineering plastics,Secondary,Scope 3 Cat 1,0.3,0.5,0.8
+Thermal pads and adhesive,Plastics,kg,5,Illustrative silicone/adhesive,Secondary,Scope 3 Cat 1,0.05,0.08,0.15
+Cables and connectors,Metals,kg,5,Illustrative copper cable,Secondary,Scope 3 Cat 1,0.2,0.25,0.35
+Packaging (cardboard),Packaging,kg,1.0,Illustrative corrugated board,Secondary,Scope 3 Cat 1,0.5,0.7,1.0
+Inbound transport (sea + truck),Transport,tkm,0.02,Illustrative blended sea/road freight,Secondary,Scope 3 Cat 4,42,78,150
